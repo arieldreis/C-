@@ -6,5 +6,21 @@ namespace login
         {
             InitializeComponent();
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (textBox1.Text == "Ariel" && textBox2.Text == "12345")
+            {
+                MessageBox.Show("Login Sucessful!");
+            }
+            else {
+                MessageBox.Show("Login Failed");
+            }
+        }
     }
 }
