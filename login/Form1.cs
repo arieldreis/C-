@@ -1,7 +1,11 @@
+using System;
+using System.Threading;
+
 namespace login
 {
     public partial class Form1 : Form
     {
+        Thread nt;
         public Form1()
         {
             InitializeComponent();
@@ -16,11 +20,19 @@ namespace login
         {
             if (textBox1.Text == "Ariel" && textBox2.Text == "12345")
             {
-                MessageBox.Show("Login Sucessful!");
+                this.Close();
+                nt = new Thread(novoForm);
+                nt.SetApartmentState(ApartmentState.STA);
+                nt.Start();
             }
             else {
                 MessageBox.Show("Login Failed");
             }
+        }
+
+        private void novoForm(object? obj)
+        {
+            Application.Run(new Form2());
         }
     }
 }
