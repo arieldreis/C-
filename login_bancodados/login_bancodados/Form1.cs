@@ -41,5 +41,19 @@ namespace login_bancodados
             }
         }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            try{
+                String strConexao = "Server=localhost;Database=DB_Cad;Uid=root;Pwd=;\r\n";
+                MySqlConnection Conexao = new(strConexao); // Faz a conexão com o banco de dados
+                var q = textBox5.Text;
+                var comando = "select * from dbotable where nome like" + q;
+                Conexao.Open();
+            }
+            catch (Exception ex) {
+                MessageBox.Show("Erro ao conectar com o banco de dados." + ex.Message);
+            }
+            Conexao.close();
+        }
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("login_bancodados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fdb9d1a165bd4b6ee34a6e8a3e4cb503689dfa4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02d690fb1a4cf9ca65b0af63fe81334ae3ab6a51")]
 [assembly: System.Reflection.AssemblyProductAttribute("login_bancodados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("login_bancodados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
