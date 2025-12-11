@@ -1,0 +1,17 @@
+C:\Users\ariel\OneDrive\Documentos\GitHub\csharp_exercises\recuperacao\recuperacao\bin\Debug\net9.0-windows\recuperacao.exe
+C:\Users\ariel\OneDrive\Documentos\GitHub\csharp_exercises\recuperacao\recuperacao\bin\Debug\net9.0-windows\recuperacao.deps.json
+C:\Users\ariel\OneDrive\Documentos\GitHub\csharp_exercises\recuperacao\recuperacao\bin\Debug\net9.0-windows\recuperacao.runtimeconfig.json
+C:\Users\ariel\OneDrive\Documentos\GitHub\csharp_exercises\recuperacao\recuperacao\bin\Debug\net9.0-windows\recuperacao.dll
+C:\Users\ariel\OneDrive\Documentos\GitHub\csharp_exercises\recuperacao\recuperacao\bin\Debug\net9.0-windows\recuperacao.pdb
+C:\Users\ariel\OneDrive\Documentos\GitHub\csharp_exercises\recuperacao\recuperacao\obj\Debug\net9.0-windows\recuperacao.Form1.resources
+C:\Users\ariel\OneDrive\Documentos\GitHub\csharp_exercises\recuperacao\recuperacao\obj\Debug\net9.0-windows\recuperacao.csproj.GenerateResource.cache
+C:\Users\ariel\OneDrive\Documentos\GitHub\csharp_exercises\recuperacao\recuperacao\obj\Debug\net9.0-windows\recuperacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\OneDrive\Documentos\GitHub\csharp_exercises\recuperacao\recuperacao\obj\Debug\net9.0-windows\recuperacao.AssemblyInfoInputs.cache
+C:\Users\ariel\OneDrive\Documentos\GitHub\csharp_exercises\recuperacao\recuperacao\obj\Debug\net9.0-windows\recuperacao.AssemblyInfo.cs
+C:\Users\ariel\OneDrive\Documentos\GitHub\csharp_exercises\recuperacao\recuperacao\obj\Debug\net9.0-windows\recuperacao.csproj.CoreCompileInputs.cache
+C:\Users\ariel\OneDrive\Documentos\GitHub\csharp_exercises\recuperacao\recuperacao\obj\Debug\net9.0-windows\recuperacao.sourcelink.json
+C:\Users\ariel\OneDrive\Documentos\GitHub\csharp_exercises\recuperacao\recuperacao\obj\Debug\net9.0-windows\recuperacao.dll
+C:\Users\ariel\OneDrive\Documentos\GitHub\csharp_exercises\recuperacao\recuperacao\obj\Debug\net9.0-windows\refint\recuperacao.dll
+C:\Users\ariel\OneDrive\Documentos\GitHub\csharp_exercises\recuperacao\recuperacao\obj\Debug\net9.0-windows\recuperacao.pdb
+C:\Users\ariel\OneDrive\Documentos\GitHub\csharp_exercises\recuperacao\recuperacao\obj\Debug\net9.0-windows\recuperacao.genruntimeconfig.cache
+C:\Users\ariel\OneDrive\Documentos\GitHub\csharp_exercises\recuperacao\recuperacao\obj\Debug\net9.0-windows\ref\recuperacao.dll
